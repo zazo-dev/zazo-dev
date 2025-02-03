@@ -16,9 +16,10 @@ to my personal GitHub profile!
   <br />
   <br />
 </div>
-<p>
 
-<img alt="Globe" height="80" src="globe.gif">
+<div align="center">
+<p>
+<img alt="Globe" height="200" src="globe.gif">
 </a>
 </p>
 
