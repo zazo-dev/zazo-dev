@@ -16,7 +16,11 @@ to my personal GitHub profile!
   <br />
   <br />
 </div>
+<p>
 
+<img alt="Globe" height="80" src="globe.gif">
+</a>
+</p>
 
 <!-- Footer -->
 <div align="center">
