@@ -18,7 +18,7 @@
           100% { opacity: 1; }
         }
       </style>
-      <strong>My Name is Isaac and I like <span class="blink">Programming</span></strong>
+      <strong>My Name is Isaac and I like Programming <span class="blink">Programming</span></strong>
     </div>
   </foreignObject>
 </svg>
