@@ -37,12 +37,23 @@ to my personal GitHub profile!
 <br /><br />
 
 <div align="center">
-<div>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <h3>Languages and Tools:</h3>
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 12px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C# logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt=".NET Core logo" />
+    <img src="https://th.bing.com/th/id/R.3ed91427828c7b282e4926da2423b8d6?rik=rPGjT4VSZUZkKg&pid=ImgRaw&r=0" height="30" alt="Angular logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="Unity logo" />
+  </div>
 </div>
 
+<br /><br />
 <!-- Texto adicional -->
 <p align="center"><samp>
 Check out my repos ⬇️  
