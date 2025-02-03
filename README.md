@@ -12,7 +12,7 @@ to my personal GitHub profile!
 <div align="center">
   <br />
   <br />
-  <img height="70" alt="My Name is Isaac and I like Programming" src="personal_note.svg" />
+  <img height="50" alt="My Name is Isaac and I like" src="personal_note.svg" />
   <br />
   <br />
 </div>
